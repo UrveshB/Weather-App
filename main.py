@@ -17,7 +17,7 @@ while True:
         print("Invalid input. Please enter a number.")
 
 # Enter your API Key
-API_KEY = "05d06c3336f44dfa91c70345242804"
+API_KEY = ""
 url = f"http://api.weatherapi.com/v1/current.json?key={API_KEY}&q={city}"
 
 try:
