@@ -13,7 +13,7 @@ To run this project, you will need to add the following environment variables to
 
 `API_KEY`
 
-Sign in to www.weatherapi.com and it will generate your free `API_KEY` now simply replace it in manage.py.
+Sign in to www.weatherapi.com and it will generate your free `API_KEY` now paste it in manage.py.
 ```bash
-  API_KEY = "05d06c3336f44dfa91c70345242804"
+  API_KEY = ""
 ```
